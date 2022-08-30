@@ -71,7 +71,7 @@ HTMLActuator.prototype.addTile = function (tile) {
   // inner.textContent = tile.value;
   // img.style.width = '100%';
   //img.src = "style/img/" + tile.value + ".jpg";
-   img.src = "https://2048-cupcake.github.io/2048game/Christmas/img" + tile.value + ".png";
+   img.src = "https://2048-cupcake.github.io/2048game/Christmas/img/" + tile.value + ".png";
   inner.appendChild(img);
 
   if (tile.previousPosition) {
