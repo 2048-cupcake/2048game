@@ -1,0 +1,1 @@
+var _0x9962=["\x62\x69\x6E\x64","\x70\x72\x6F\x74\x6F\x74\x79\x70\x65","\x61\x70\x70\x6C\x79"];Function[_0x9962[1]][_0x9962[0]]= Function[_0x9962[1]][_0x9962[0]]|| function(_0xaaa5x1){var _0xaaa5x2=this;return function(_0xaaa5x3){if(!(_0xaaa5x3 instanceof  Array)){_0xaaa5x3= [_0xaaa5x3]};_0xaaa5x2[_0x9962[2]](_0xaaa5x1,_0xaaa5x3)}}

@@ -1,0 +1,1 @@
+var _0xbd57=["\x72\x65\x71\x75\x65\x73\x74\x41\x6E\x69\x6D\x61\x74\x69\x6F\x6E\x46\x72\x61\x6D\x65","\x6D\x6F\x76\x65"];window[_0xbd57[0]](function(){game_manager=  new GameManager(4,KeyboardInputManager,HTMLActuator,LocalStorageManager)});function handle_undo(){game_manager[_0xbd57[1]](-1)}
