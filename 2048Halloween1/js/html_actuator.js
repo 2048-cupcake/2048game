@@ -184,8 +184,8 @@ HTMLActuator.prototype.scoreTweetButton = function () {
   tweet.classList.add("twitter-share-button");
   tweet.setAttribute("href", "https://twitter.com/share");
   tweet.setAttribute("data-via", "1sumitkmr0");
-  tweet.setAttribute("data-url", "https://2048-cupcake.blogspot.com/2022/08/2048-halloween.html");
-  tweet.setAttribute("data-counturl", "https://2048-cupcake.blogspot.com/2022/08/2048-halloween.html");
+  tweet.setAttribute("data-url", "https://2048-cupcake.blogspot.com/2022/09/play-online-2048-halloween.html");
+  tweet.setAttribute("data-counturl", "https://2048-cupcake.blogspot.com/2022/09/play-online-2048-halloween.html");
   tweet.textContent = "Tweet";
 
   var text = "I scored " + this.score + "-" + caption(this.level).toUpperCase() + " at 2048_halloween #2048_halloween #2048_Halloween_Games";
