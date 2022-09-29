@@ -10,7 +10,8 @@ html, body {
 
 body {
   padding: 0px 10px;
- background-image: url(https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_bg.png);
+  background-image: url(https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/bg.png);
+                        
   background-position: 50% 0px;
   background-repeat: no-repeat;
   background-size: 250px; }
@@ -601,7 +602,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .tile-score-2 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_2.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/2.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -612,7 +613,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .tile-score-4 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_4.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/4.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -623,7 +624,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .tile-score-8 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_8.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/8.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -634,7 +635,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .tile-score-16 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_16.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/16.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -645,7 +646,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.07937), inset 0 0 0 1px rgba(255, 255, 255, 0.04762); }
 
 .tile-score-32{
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_32.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/32.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -656,7 +657,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.15873), inset 0 0 0 1px rgba(255, 255, 255, 0.09524); }
 
 .tile-score-64 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_64.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/64.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -667,7 +668,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286); }
 
 .tile-score-128 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_128.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/128.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -678,7 +679,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048); }
 
 .tile-score-256 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_256.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/256.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -689,7 +690,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381); }
 
 .tile-score-512 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_512.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/512.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -700,7 +701,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571); }
 
 .tile-score-1024 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_1024.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/1024.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -711,7 +712,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333); }
 
 .tile-score-2048 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_2048.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/2048.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1025,7 +1026,7 @@ hr {
 	
 body {
   padding: 0px 0;
-  background-image: url(https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_bg.png);
+  background-image: url(https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/bg.png);
   background-position: 50% 0px;
   background-repeat: no-repeat;
   background-size: 180px; }
@@ -1043,7 +1044,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 
 .tile-score-2 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_2.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/2.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1056,7 +1057,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .tile-score-4 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_4.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/4.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1071,7 +1072,7 @@ body {
  box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .tile-score-8 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_8.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/8.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1086,7 +1087,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .tile-score-16 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_16.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/16.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1101,7 +1102,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.07937), inset 0 0 0 1px rgba(255, 255, 255, 0.04762); }
 
 .tile-score-32{
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_32.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/32.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1116,7 +1117,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.15873), inset 0 0 0 1px rgba(255, 255, 255, 0.09524); }
 
 .tile-score-64 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_64.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/64.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1130,7 +1131,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286); }
 
 .tile-score-128 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_128.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/128.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1144,7 +1145,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048); }
 
 .tile-score-256 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_256.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/256.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1158,7 +1159,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381); }
 
 .tile-score-512 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_512.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/512.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1172,7 +1173,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571); }
 
 .tile-score-1024 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_1024.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/1024.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1186,7 +1187,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333); }
 
 .tile-score-2048 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/2048Halloween6_2048.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048HalloweenImg/Halloween6/2048.png");
   background-size: cover;
   background-position: center center;
   background-color: white;
