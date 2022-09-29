@@ -73,7 +73,9 @@ HTMLActuator.prototype.addTile = function (tile) {
   //img.src = "style/img/" + tile.value + ".png";
   // img.src = "https://2048-cupcake.github.io/2048game/2048Halloween6/img/" + tile.value + ".png";
    
-    img.src = "https://2048-cupcake.github.io/2048game/2048Halloween/img/" + tile.value + ".png";
+    img.src = "https://2048-cupcake.github.io/2048game/2048HalloweenImg/img/" + tile.value + ".png";
+  
+
    inner.appendChild(img);
 
   if (tile.previousPosition) {
