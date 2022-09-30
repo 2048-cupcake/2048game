@@ -1,0 +1,79 @@
+/*  image corousel*/
+    .wrapper {
+  max-width: 80em;
+  margin: 0 auto;
+}
+.wrapper li {
+    display: inline-block;
+    overflow: hidden;
+    max-height: 112px;
+    width: 105px;
+    border: 3px solid #ececf9;
+    background: #fff;
+    padding: 2px;
+      margin: 3px;
+    box-shadow: 0 6px 20px -6px rgb(0 0 0);
+  font-size: 15px;
+  border-radius: 22px;
+}
+.wrapper img {
+  max-width: 97px;
+}
+.wrapper .overlay-container {
+  display: block;
+  position: relative;
+}
+.wrapper .overlay-container::before {
+  content: attr(data-overlay-text);
+  font: 1em/1.5em "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  position: absolute;
+  z-index: 1;
+  /*On top of parent*/
+  top: -10%;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  background: rgba(128, 128, 128, 0.8);
+  opacity: 0;
+  -moz-transform: translateY(0);
+  -ms-transform: translateY(0);
+  -o-transform: translateY(0);
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  font-weight: 600;
+}
+.wrapper .overlay-container:hover::before {
+  opacity: 1;
+  -moz-transform: translateY(20px);
+  -ms-transform: translateY(20px);
+  -o-transform: translateY(20px);
+  -webkit-transform: translateY(20px);
+  transform: translateY(20px);
+}
+.wrapper .overlay-container .overlay-img {
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  -o-transform: scale(1);
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+width: var(--size, 5.8rem);
+    height: var(--size, 5.8rem);
+  border-radius: 20px;
+
+}
+.wrapper .overlay-container:hover .overlay-img {
+  -moz-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+  
