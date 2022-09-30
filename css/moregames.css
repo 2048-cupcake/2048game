@@ -77,3 +77,13 @@ width: var(--size, 5.8rem);
   transform: scale(1.2);
 }
   
+
+     ul.img-grid {
+    padding-top: 22px;
+}
+                 
+ ul.img-gridd {
+    padding-top: 73px;
+    /* padding-right: 0px; */
+    margin-left: 36px;
+}
