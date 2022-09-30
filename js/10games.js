@@ -4,7 +4,7 @@ var xhttp = new XMLHttpRequest();
 	    var response = JSON.parse(xhttp.responseText);
 		var user = response.user;
 		var showdata = "";
-				for(var i = 0; i < 11; i++) {
+				for(var i = 0; i < 10; i++) {
                  // for(var i = 0; i < user.length; i++) {
                   //for (var i = user.length - 1; i >= 0; i--){
 					//showdata += ' <div id=' + user[i].url + ' class="userpost">';
