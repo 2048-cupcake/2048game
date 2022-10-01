@@ -1,18 +1,18 @@
-		var xhttp = new XMLHttpRequest();
+var xhttp = new XMLHttpRequest();
 		xhttp.onreadystatechange = function() {
 		if(this.readyState == 4 && this.status == 200) {
 	    var response = JSON.parse(xhttp.responseText);
 		var user = response.user;
 		var showdata = "";
-				for(var i = 0; i <=11 ; i++) {
-                  
-                 // for (var i = user.length - 1; i >= 0; i--){
+				for(var i = 1; i < 11; i++) {
+                 // for(var i = 0; i < user.length; i++) {
+                  //for (var i = user.length - 1; i >= 0; i--){
 					//showdata += ' <div id=' + user[i].url + ' class="userpost">';
 		           // showdata += '<div>';
 
 //showdata += '<div class="main-container">';
 //showdata += '<ul class="grid-wrapper">';
-showdata += '<li><a href="' + user[i].websiteurl + '"   target="_blank">	<img src="' + user[i].image + '"    alt="2048 Classic"> </a><h2 class="gamename">'+user[i].gamename+ '</h2>';
+showdata += '<li><a href="' + user[i].websiteurl + '"   target="_blank" data-overlay-text="' + user[i].gamename + '"  class="overlay-container" >	<img src="' + user[i].image + '"  class="overlay-img"   alt="2048 Classic"> </a>';    //<h2 class="gamename">'+user[i].gamename+ '</h2>';  
   
   
  showdata += ' </li>';
