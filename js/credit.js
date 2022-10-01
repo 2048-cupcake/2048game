@@ -1,0 +1,1 @@
+document.getElementById("cupcakescredit").innerHTML = "Image credit © <a href='https://www.123rf.com/profile_captainvector' target='_blank'>captainvector</a>,  <a href='https://www.123rf.com/free-images/' target='_blank'>123RF Images</a>";
