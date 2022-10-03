@@ -48,8 +48,8 @@
 							document.write(showdata);
 						}
 					}; 
-      // xhttp.open("GET", "https://2048-cupcake.github.io/2048game/json/specialgame.json", false);	
- xhttp.open("GET", "https://2048-cupcake.github.io/2048game/js/allgames.json", false);		   
+  xhttp.open("GET", "https://2048-cupcake.github.io/2048game/json/specialgame.json", false);	
+ //xhttp.open("GET", "https://2048-cupcake.github.io/2048game/js/allgames.json", false);		   
          xhttp.send(); 
 //xhttp.open("GET", "https://script.google.com/macros/s/AKfycbyjDXNgxpwwff3qdHSpa4Q5kwgBn6SugZV9NVPH1iBjUx-gI822oOMwz-Xis-B2O6M6wQ/exec", false);					
 					//xhttp.send();  
