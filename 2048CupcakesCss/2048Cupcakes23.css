@@ -11,9 +11,9 @@ html, body {
 body {
   padding: 0px 10px;
   background-image: url(https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes23/bg.png);
-  background-position: 50% 0px;
-  background-repeat: no-repeat;
-  background-size: 250px; }
+ background-position: 50% 70px;
+    background-repeat: no-repeat;
+    background-size: 200px; }
 
 .heading {
   height: 262px; }
