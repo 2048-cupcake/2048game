@@ -9,11 +9,11 @@ html, body {
   font-size: 18px; }
 
 body {
-  padding: 0px 10px;
+  padding: 0px 0px;
   background-image: url(https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes22/bg.png);
   background-position: 50% 0px;
   background-repeat: no-repeat;
-  background-size: 250px; }
+  background-size: 0px; }
 
 .heading {
   height: 262px; }
