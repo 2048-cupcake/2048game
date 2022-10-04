@@ -166,7 +166,7 @@ address {
 	line-height: inherit;
 }
 
-ol,ul {
+/*ol,ul {
 	padding-left: 2rem;
 }
 
@@ -189,9 +189,9 @@ dd {
 }
 
 blockquote {
-	margin: 0 0 1rem;
+	margin: 0 0 1rem; 
 }
-
+*/
 b,strong {
 	font-weight: bolder;
 }
