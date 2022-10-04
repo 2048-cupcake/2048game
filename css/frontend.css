@@ -18,8 +18,8 @@ margin-right: 27em;}
 	background: var(--gray05);
 	line-height: 1.6;
 	background: #151414;
-
-    color: #999693;
+        color: #999693;
+	border-top: 5px solid #a5a5a5;
 }
 
 .footer-container {
