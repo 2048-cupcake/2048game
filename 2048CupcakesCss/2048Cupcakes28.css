@@ -10,7 +10,7 @@ html, body {
 
 body {
   padding: 0px 10px;
-  background-image: url(https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/bg.png);
+  background-image: url(https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/bg.webp);
  background-position: 50% 70px;
     background-repeat: no-repeat;
     background-size: 200px; }
@@ -601,7 +601,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .tile-score-2 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/2.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/2.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -612,7 +612,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .tile-score-4 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/4.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/4.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -623,7 +623,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .tile-score-8 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/8.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/8.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -634,7 +634,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .tile-score-16 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/16.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/16.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -645,7 +645,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.07937), inset 0 0 0 1px rgba(255, 255, 255, 0.04762); }
 
 .tile-score-32{
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/32.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/32.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -656,7 +656,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.15873), inset 0 0 0 1px rgba(255, 255, 255, 0.09524); }
 
 .tile-score-64 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/64.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/64.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -667,7 +667,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286); }
 
 .tile-score-128 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/128.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/128.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -678,7 +678,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048); }
 
 .tile-score-256 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/256.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/256.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -689,7 +689,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381); }
 
 .tile-score-512 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/512.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/512.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -700,7 +700,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571); }
 
 .tile-score-1024 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/1024.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/1024.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -711,7 +711,7 @@ hr {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333); }
 
 .tile-score-2048 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/2048.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/2048.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1025,7 +1025,7 @@ hr {
 	
 body {
   padding: 0px 0;
-  background-image: url(https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/bg.png);
+  background-image: url(https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/bg.webp);
   background-position: 50% 0px;
   background-repeat: no-repeat;
   background-size: 180px; }
@@ -1043,7 +1043,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 
 .tile-score-2 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/2.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/2.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1056,7 +1056,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .tile-score-4 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/4.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/4.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1071,7 +1071,7 @@ body {
  box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .tile-score-8 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/8.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/8.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1086,7 +1086,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
 .tile-score-16 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/16.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/16.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1101,7 +1101,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.07937), inset 0 0 0 1px rgba(255, 255, 255, 0.04762); }
 
 .tile-score-32{
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/32.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/32.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1116,7 +1116,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.15873), inset 0 0 0 1px rgba(255, 255, 255, 0.09524); }
 
 .tile-score-64 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/64.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/64.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1130,7 +1130,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286); }
 
 .tile-score-128 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/128.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/128.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1144,7 +1144,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048); }
 
 .tile-score-256 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/256.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/256.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1158,7 +1158,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381); }
 
 .tile-score-512 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/512.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/512.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1172,7 +1172,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571); }
 
 .tile-score-1024 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/1024.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/1024.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
@@ -1186,7 +1186,7 @@ body {
   box-shadow: 0 0 30px 5px rgba(252, 140, 18, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333); }
 
 .tile-score-2048 {
-  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/2048.png");
+  background-image: url("https://2048-cupcake.github.io/2048game/2048CupcakesImg/Cupcakes28/2048.webp");
   background-size: cover;
   background-position: center center;
   background-color: white;
