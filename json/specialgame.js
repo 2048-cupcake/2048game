@@ -7,7 +7,7 @@ var showdata = "";
 for (var i = user.length - 1; i >1; i--){
 showdata += ' <a href=' + user[i].websiteurl + ' target=\"_blank\">';  
 showdata += '<div class="item">';
-showdata += '<div><img src="' + user[i].image  + '"    alt="2048 Classic" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" width="400" height="400" loading="lazy"> </div>';
+showdata += '<div><img src="' + user[i].image  + '"    alt="' + user[i].gamename + '" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" width="400" height="400" loading="lazy"> </div>';
 showdata += '<div>' + user[i].gamename  + '</div>';
 showdata += '</div>';
 showdata += '</a>';}
