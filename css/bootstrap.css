@@ -120,7 +120,7 @@ hr:not([size]) {
 }
 
 .h3,h3 {
-	font-size: calc(1.3rem + .6vw);
+  /* font-size: calc(1.3rem + .6vw); */
 }
 
 @media (min-width:1200px) {
