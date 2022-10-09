@@ -1,4 +1,3 @@
-
 .copyright, h7 {
 margin-right: 27em;}
 
@@ -12,17 +11,17 @@ margin-right: 27em;}
     padding-bottom: 3rem!important;
 }
 
-.site-footer {
+.my-footer {
 	position: relative;
 	color: var(--gray85);
 	background: var(--gray05);
 	line-height: 1.6;
 	background: #151414;
-        color: #999693;
-	border-top: 5px solid #a5a5a5;
+
+    color: #999693;
 }
 
-.footer-container {
+.footer_container {
 	margin-right: auto;
 	margin-left: auto;
 	padding-left: 15px;
@@ -33,17 +32,17 @@ margin-right: 27em;}
 	overflow-x: hidden;
 } 
 
-.footer-container p {
+.footer_container p {
 	margin: 0 0 1.45rem;
 	line-height: 30px;
 }
 
-.footer-container a {
+.footer_container a {
 	color: var(--gray85);
 	text-decoration: none;
 }
 
-.footer-container .col-header {
+.footer_container .column_header {
 	/*flex: 0 0 100%; */
 	padding-bottom: 15px;
 	font-weight: 700;
@@ -63,7 +62,7 @@ margin-right: 27em;}
 	margin: 0;
 }
 
-.footer-col {
+.footer_column {
 	display: flex;
 	flex-direction: column;
 	flex: 0 0 50%; 
@@ -72,19 +71,19 @@ margin-right: 27em;}
 	font-size: 16px;
 }
 
-.footer-left,.footer-right {
+.footer_left,.footer_right {
 	display: flex;
 	flex-direction: column;
 	flex: 0 0 100%;
 }
 
-.footer-col a {
+.footer_column a {
 	padding: 5px 0;
   font-size: 13px;
     font-weight: 500;
 }
 
-.footer-desc-col {
+.footer_description_column {
 	flex: 1 0 90%;
 	display: flex;
 	flex-direction: column;
@@ -93,7 +92,7 @@ margin-right: 27em;}
 	margin-bottom: 30px;
 }
 
-.footer-desc-col a {
+.footer_description_column a {
 	text-decoration: underline;
 }
 
@@ -106,15 +105,15 @@ p.footer-donation a:hover {
 	text-decoration: none;
 }
 
-.footer-container .col-spacer {
+.footer_container .col-spacer {
 	margin-top: -3rem;
 }
 
-.trending-guides {
+.Useful_Links {
 	margin: 0 0 3rem;
 }
 
-.footer-bottom .our-nonprofit {
+.footer_bottom .footer_Copyright {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
@@ -122,28 +121,28 @@ p.footer-donation a:hover {
   font-size: 13px;
 }
 
-.footer-bottom .our-nonprofit a {
+.footer_bottom .footer_Copyright a {
 	/*padding: 5px 10px; */
    padding-left: 28px;
 }
 
 @media (min-width:500px) {
-	.trending-guides-row {
+	.Useful_Links_row {
 		display: flex;
 		flex-direction: row;
 		flex-wrap: wrap;
 	}
 
-	.footer-col-3 {
+	.footer_column-3 {
 		flex: 1 0 100%;
 		flex-direction: row;
 	}
 
-	.footer-right {
+	.footer_right {
 		padding-left: 15px;
 	}
 
-	.footer-col-1,.footer-col-2,.footer-left,.footer-right {
+	.footer_column-1,.footer_column-2,.footer_left,.footer_right {
 		flex: 1 0 45%;
 		height: auto;
 		font-size: 15;
@@ -151,67 +150,67 @@ p.footer-donation a:hover {
 }
 
 @media (min-width:800px) {
-	.footer-container {
+	.footer_container {
 		width: 750px;
 	}
 
-	.footer-col-1,.footer-col-2,.footer-col-3 {
+	.footer_column-1,.footer_column-2,.footer_column-3 {
 		flex: 1 0 25%;
 		height: auto;
 		font-size: 16.5;
 	}
 
-	.footer-col-3 {
+	.footer_column-3 {
 		flex-direction: column;
 	}
 
-	.footer-right {
+	.footer_right {
 		padding-left: 0;
 	}
 
-	.footer-container .col-spacer {
+	.footer_container .col-spacer {
 		margin-top: 40px;
 	}
 
-	.footer-bottom .our-nonprofit a {
+	.footer_bottom .footer_Copyright a {
 		
        padding-left: 28px;
 	}
 }
 
 @media (min-width:1020px) {
-	.footer-container {
+	.footer_container {
 		width: 850px;
 	}
 }
 
 @media (min-width:1200px) {
-	.footer-container {
+	.footer_container {
 		width: 1170px;
 	}
 
-	.footer-top {
+	.footer_top {
 		display: flex;
 		flex-direction: row;
 	}
 
-	.footer-desc-col {
+	.footer_description_column {
 		flex: 1 0 45%;
 	}
 
-	.trending-guides {
+	.Useful_Links {
 		flex: 1 0 58%;
 	}
 
-	.footer-col-1 {
+	.footer_column-1 {
 		flex: 1 0 25%;
 	}
 
-	.footer-col-3 {
+	.footer_column-3 {
 		flex: 1 0 30%;
 	}
 
-	.footer-col-2 {
+	.footer_column-2 {
 		flex: 1 0 20%;
 	}
 
@@ -219,7 +218,7 @@ p.footer-donation a:hover {
 		margin-top: 18px;
 	}
 
-	.footer-bottom .our-nonprofit {
+	.footer_bottom .footer_Copyright {
 		
       
       
@@ -229,21 +228,25 @@ p.footer-donation a:hover {
     padding: 20px;
 	}
 
-	.footer-bottom .col-header {
+	.footer_bottom .column_header {
 		display: none;
 	}
 
-	.our-nonprofit {
+	.footer_Copyright {
 		margin-top: 20px;
 	}
 
-	.footer-divider {
+	.footer_divider {
 		height: 1px;
 		margin: 0 15px;
 		background-color: #373636;
       border-bottom: 1px solid #373636;
-	}
-}
+	}}
+
+
+
+
+
 
 .game-explanation {
     overflow: hidden;
