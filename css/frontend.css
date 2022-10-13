@@ -495,7 +495,6 @@ p.footer-donation a:hover {
     -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
-   background: #d2d0c2;
     border-radius: 6px;
     width: 500px;
     height: 500px;
@@ -507,9 +506,9 @@ p.footer-donation a:hover {
 }
   
 .legend-grid {
-    background: #f3f3f3;
-    border: 1px solid #d7d7d7;
-	  position: relative;
+background: #f3f3f3;
+border: 1px solid #d7d7d7;
+position: relative;
   padding: 7.5px;
   cursor: default;
   -webkit-touch-callout: none;
@@ -519,7 +518,6 @@ p.footer-donation a:hover {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #ea74a0;
   border-radius: 4px;
   width: 73px;
   height: 73px;
